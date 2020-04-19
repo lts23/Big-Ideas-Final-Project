@@ -19,7 +19,7 @@ This metric measures how many miles of main roads go through each of the neighbo
   
 3. Traffic - Tyler
 
-This metric measures the amount of daily car traffic per neighborhood. Lots of daily car traffic leads to noise, an increase in potential car crashes, and crowded streets. The City of Pittsburgh Traffic Count dataset provides the data.
+This metric measures the amount of daily car traffic per neighborhood. Lots of daily car traffic leads to noise, an increase in potential car crashes, and crowded streets. Even though major roads lead to more traffic, ideal neighborhoods have streets that connect to the major roads, but aren't traffic-heavy themselves. The City of Pittsburgh Traffic Count dataset provides the data.
 
 The Metric:
 
