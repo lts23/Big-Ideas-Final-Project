@@ -26,3 +26,5 @@ The Metric:
 The Best Neighborhood: Apply the metric from the previous section to determine the best neighborhood in Pittsburgh. Beyond just executing code, provide narrative about why you think this is the best neighborhood. Incorporate a data visualization, perhaps to rank all of the neighborhoods or show a neighborhood’s best-ness over time. The key is to make a data driven argument.
 
 Conclusion: Reflect on how the data driven determination of “best neighborhood” is the same or different from your personal favorite neighborhood. Each member of the group should write their own response to this.
+
+Leah - My personal favorite neighborhood in Pittsburgh is Shady Side. It's my favorite because it has a strip of shops and food places, but it's not as crowded and chaotic as Oakland. Shady Side also has beautiful big homes, with big yards, which you can't usually find in a city. This critera is the same as what our metric analyzes because Shady Side combines the attractions of a city with the looks of a suburb.
