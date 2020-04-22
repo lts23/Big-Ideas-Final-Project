@@ -28,3 +28,7 @@ The Best Neighborhood: Apply the metric from the previous section to determine t
 Conclusion: Reflect on how the data driven determination of “best neighborhood” is the same or different from your personal favorite neighborhood. Each member of the group should write their own response to this.
 
 Leah - My personal favorite neighborhood in Pittsburgh is Shady Side. It's my favorite because it has a strip of shops and food places, but it's not as crowded and chaotic as Oakland. Shady Side also has beautiful big homes, with big yards, which you can't usually find in a city. This critera is the same as what our metric analyzes because Shady Side combines the attractions of a city with the looks of a suburb.
+
+Tyler - Personally, I have a hard time picking a favorite neighborhood. If I had to choose within the city limits, I think Crafton/Ingram would be my top picks. They're more familiar to me, as the buildings there remind me of my hometown. Obviously compared to the final metric, my picks are nowhere near the "best"
+
+Question: Do you think any of our three metrics have a greater value than the others?
