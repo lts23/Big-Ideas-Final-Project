@@ -6,6 +6,8 @@ What is the best neighborhood in Pittsburgh?
 
 Link to data website for reference: https://data.wprdc.org/dataset
 
+***For the Traffic dataset, you will need to rename this to traffic_count.csv if you download this REPO.
+
 Introduction:
 We came up with aspects of what we thought made good neighborhoods, then used Western Pennsylvania Regional Data Center to find datasets that supported each of our metrics. We decided to determine which neighborhood is best by analyzing which had the most features of a city, like shops and food places, as well as features of a suburb, like the quiet and green areas.
 
